@@ -4,7 +4,6 @@ Pepper Games is an Android application designed to help users find and join spor
 
 ## Table of Contents
 
-- [Team Members](#team-members)
 - [User Needs](#user-needs)
 - [Existing Solutions](#existing-solutions)
 - [Our Solution](#our-solution)
